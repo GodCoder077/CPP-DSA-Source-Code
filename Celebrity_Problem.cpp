@@ -32,8 +32,8 @@ int getCeleb(vector<vector<int>> v){
             return -1;
         }
 
-        return celeb;
     }
+    return celeb;
 }
 
 int main(){
